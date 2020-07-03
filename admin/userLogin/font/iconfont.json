@@ -1,0 +1,23 @@
+{
+  "id": "1913102",
+  "name": "个人主页",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "394279",
+      "name": "user",
+      "font_class": "caidan07",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11219362",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
