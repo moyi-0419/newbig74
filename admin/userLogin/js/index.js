@@ -29,7 +29,7 @@ $(function () {
     // $(this).slideToggle()
     // $(this).find('b').toggleClass('rotate0')
     // $('.menu .level02 li:eq(0)').trigger('click')
-    console.log(this);
+    // console.log(this);
 
   })
 
